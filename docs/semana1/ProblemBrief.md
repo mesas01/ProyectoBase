@@ -42,7 +42,7 @@ _(Pendiente: describir el método, por ejemplo votación en la reunión del equi
 
 | Integrante | Usuario de GitHub | Rol |
 |---|---|---|
-| Santiago Mesa | _(pendiente)_ | _(pendiente)_ |
+| Santiago Mesa | [mesas01](https://github.com/mesas01) | _(pendiente)_ |
 | _(pendiente)_ | _(pendiente)_ | _(pendiente)_ |
 
 - **Responsable de las entregas:** _(pendiente)_

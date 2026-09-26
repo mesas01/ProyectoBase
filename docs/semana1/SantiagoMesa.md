@@ -2,7 +2,7 @@
 
 **Nombre:** Santiago Mesa
 
-**Usuario de GitHub:** _(pendiente)_
+**Usuario de GitHub:** mesas01
 
 ---
 
