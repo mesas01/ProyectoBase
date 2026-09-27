@@ -34,7 +34,9 @@ _(Pendiente: describir el método, por ejemplo votación en la reunión del equi
 
 > Nombre del proyecto y una frase que describa el problema. Extensión: breve.
 
-**Cuentas Claras** — Las familias en sucesión pagan gastos comunes de forma informal y, al repartir la herencia, no pueden demostrar quién aportó qué ni cuánto se le debe a cada heredero.
+**Legacy** — *Settle the estate, not the arguments. / Liquida la herencia, no las peleas.*
+
+Las familias en sucesión pagan gastos comunes de forma informal y, al repartir la herencia, no pueden demostrar quién aportó qué ni cuánto se le debe a cada heredero.
 
 ### Equipo y roles
 
@@ -43,7 +45,7 @@ _(Pendiente: describir el método, por ejemplo votación en la reunión del equi
 | Integrante | Usuario de GitHub | Rol |
 |---|---|---|
 | Santiago Mesa | [mesas01](https://github.com/mesas01) | _(pendiente)_ |
-| _(pendiente)_ | _(pendiente)_ | _(pendiente)_ |
+| Juliana Lugo | [Julilugo09](https://github.com/Julilugo09) | _(pendiente)_ |
 
 - **Responsable de las entregas:** _(pendiente)_
 - **Canal de coordinación:** _(pendiente, ej. grupo de WhatsApp del equipo)_
